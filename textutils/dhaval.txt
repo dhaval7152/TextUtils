@@ -1,0 +1,6 @@
+reading the file dhaval.txt
+
+this is a test file for quiz1
+
+yoy ooo
+
